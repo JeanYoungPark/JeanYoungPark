@@ -10,7 +10,8 @@
 <a href="https://thread-gorgonzola-1b0.notion.site/cfa3b92e9adf4ba7b125f7c08a9225ef?pvs=74" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white&amp;link=[mailto:jean.young.park.96@gmail.com](ttps://thread-gorgonzola-1b0.notion.site/cfa3b92e9adf4ba7b125f7c08a9225ef?pvs=74)" alt="Notion Badge"></a>
   <br /><br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JeanYoungPark&border_radius=3&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=JeanYoungPark&border_radius=3&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+#[![GitHub Streak](https://streak-stats.demolab.com?user=JeanYoungPark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)--!>
 
 </div>
 
