@@ -42,11 +42,6 @@
 
 </td>
 
-<td>
-
-<img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanYoungPark&amp;exclude_repo=Portfolio,HomePal&amp;langs_count=7&amp;layout=compact&amp;bg_color=transparent">
-
-</td>
 </tbody>
 </table>
 
@@ -56,9 +51,8 @@
 <h2>💻 What I currently do 💻</h2>
 <pre align="left" style="width:fit-content">
 🏦 리틀팍스에서 근무중
-📝 next js 공부중
-📚 타입스크립트 도서, HTTP 도서 정독중
-🚩 nextjs 기반 모바일 청첩장 프로젝트 진행중
+📝 claude code 알아가는중
+🚩 nextjs 기반 PWA 프로젝트 진행중
 </pre>
 </div> -->
 
